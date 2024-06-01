@@ -1,0 +1,20 @@
+[
+    {
+        "nik": "2211010107",
+        "nama": "Ronaldo",
+        "jeniskelamin": "Laki-Laki",
+        "golongan": "IV"
+    },
+    {
+        "nik": "2211010108",
+        "nama": "Messi",
+        "jeniskelamin": "Laki-Laki",
+        "golongan": "IV"
+    },
+    {
+        "nik": "2211010109",
+        "nama": "Neymar",
+        "jeniskelamin": "Laki-Laki",
+        "golongan": "III"
+    }
+]
