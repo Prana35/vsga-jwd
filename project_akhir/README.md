@@ -16,7 +16,7 @@ Proyek ini mencakup:
    - Ekstrak file ZIP proyek ini.
 
 2. **Pindahkan Folder Proyek**
-   - Pindahkan folder `project_vsga-jwd` ke dalam folder web server Anda. 
+   - Pindahkan folder `project_akhir` ke dalam folder web server Anda. 
    - Jika Anda menggunakan XAMPP, pindahkan ke folder `htdocs`.
    - Jika Anda menggunakan Laragon, pindahkan ke folder `www`.
 
