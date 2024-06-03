@@ -26,7 +26,7 @@ Proyek ini mencakup:
 ## Cara Penggunaan
 
 1. **Buka Proyek di Browser**
-   - Buka browser Anda dan akses proyek melalui URL seperti `http://localhost/project_vsga-jwd` (sesuaikan dengan nama folder dan konfigurasi web server Anda).
+   - Buka browser Anda dan akses proyek melalui URL seperti `http://localhost/project_akhir` (sesuaikan dengan nama folder dan konfigurasi web server Anda).
 
 2. **Isi Formulir**
    - Isi formulir data mahasiswa dengan lengkap dan klik tombol `Simpan`.
