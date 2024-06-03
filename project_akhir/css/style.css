@@ -1,0 +1,11 @@
+.nilai-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.nilai-container div {
+    width: 45%;
+}
+.keterangan {
+    margin-top: 20px;
+}
